@@ -1,0 +1,13 @@
+{
+  "name": "ledger-keypair-generate-demo",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
